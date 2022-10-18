@@ -1,2 +1,6 @@
 # ClassList
  
+- NavigationController
+- CollectionView 
+- Segue
+
